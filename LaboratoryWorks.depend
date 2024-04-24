@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1713880094 source:c:\users\comp\documents\laboratoryworks\lr.c
+	<stdio.h>
+
+1713880158 source:c:\users\comp\documents\laboratoryworks\main.c
+	"lr.h"
+	<stdio.h>
+	<time.h>
+
+1713880094 c:\users\comp\documents\laboratoryworks\lr.c
+	<stdio.h>
+
+1713946704 c:\users\comp\documents\laboratoryworks\lr.h
+	"lr.c"
+	<stdio.h>
+
